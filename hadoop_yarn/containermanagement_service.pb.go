@@ -4,7 +4,7 @@
 
 package hadoop_yarn
 
-import proto "code.google.com/p/goprotobuf/proto"
+import proto "github.com/golang/protobufo"
 import json "encoding/json"
 import math "math"
 
