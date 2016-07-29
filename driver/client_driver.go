@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/Afonos/gohadoop"
-	"github.com/Afonos/gohadoop/hadoop_common"
-	"github.com/Afonos/gohadoop/hadoop_common/ipc/client"
-	"github.com/Afonos/gohadoop/hadoop_yarn"
+	"github.com/noelcosgrave/gohadoop"
+	"github.com/noelcosgrave/gohadoop/hadoop_common"
+	"github.com/noelcosgrave/gohadoop/hadoop_common/ipc/client"
+	"github.com/noelcosgrave/gohadoop/hadoop_yarn"
 	"github.com/nu7hatch/gouuid"
 	"log"
 )
