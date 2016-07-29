@@ -7,7 +7,7 @@ package hadoop_yarn
 import proto "github.com/golang/protobuf"
 import json "encoding/json"
 import math "math"
-import hadoop_common "github.com/ncosgrave/gohadoop/hadoop_common"
+import hadoop_common "github.com/noelcosgrave/gohadoop/hadoop_common"
 
 // Reference proto, json, and math imports to suppress error if they are not otherwise used.
 var _ = proto.Marshal

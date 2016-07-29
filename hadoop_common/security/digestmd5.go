@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 	"errors"
-	"github.com/ncosgrave/gohadoop/hadoop_common"
+	"github.com/noelcosgrave/gohadoop/hadoop_common"
 	"log"
 	"strings"
 )

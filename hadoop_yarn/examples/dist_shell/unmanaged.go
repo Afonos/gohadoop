@@ -4,10 +4,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/ncosgrave/gohadoop/hadoop_common/security"
-	"github.com/ncosgrave/gohadoop/hadoop_yarn"
-	"github.com/ncosgrave/gohadoop/hadoop_yarn/conf"
-	"github.com/ncosgrave/gohadoop/hadoop_yarn/yarn_client"
+	"github.com/noelcosgrave/gohadoop/hadoop_common/security"
+	"github.com/noelcosgrave/gohadoop/hadoop_yarn"
+	"github.com/noelcosgrave/gohadoop/hadoop_yarn/conf"
+	"github.com/noelcosgrave/gohadoop/hadoop_yarn/yarn_client"
 )
 
 func main() {

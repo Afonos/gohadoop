@@ -1,8 +1,8 @@
 package yarn_client
 
 import (
-  "github.com/ncosgrave/gohadoop/hadoop_yarn"
-  yarn_conf "github.com/ncosgrave/gohadoop/hadoop_yarn/conf"
+  "github.com/noelcosgrave/gohadoop/hadoop_yarn"
+  yarn_conf "github.com/noelcosgrave/gohadoop/hadoop_yarn/conf"
 )
 
 type YarnClient struct {

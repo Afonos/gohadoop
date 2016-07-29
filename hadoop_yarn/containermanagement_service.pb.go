@@ -11,8 +11,8 @@ import math "math"
 import (
   "net"
   "strconv"
-  "github.com/ncosgrave/gohadoop"
-  hadoop_ipc_client "github.com/ncosgrave/gohadoop/hadoop_common/ipc/client"
+  "github.com/noelcosgrave/gohadoop"
+  hadoop_ipc_client "github.com/noelcosgrave/gohadoop/hadoop_common/ipc/client"
   "github.com/nu7hatch/gouuid"
 )
 

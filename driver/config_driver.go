@@ -1,8 +1,8 @@
 package main
 
 import (
-	hadoop_conf "github.com/ncosgrave/gohadoop/hadoop_common/conf"
-	yarn_conf "github.com/ncosgrave/gohadoop/hadoop_yarn/conf"
+	hadoop_conf "github.com/noelcosgrave/gohadoop/hadoop_common/conf"
+	yarn_conf "github.com/noelcosgrave/gohadoop/hadoop_yarn/conf"
 	"log"
 )
 

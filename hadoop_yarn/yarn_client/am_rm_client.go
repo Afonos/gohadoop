@@ -5,9 +5,9 @@ import (
 	"log"
 	"sync"
 
-	"github.com/ncosgrave/gohadoop/hadoop_common/security"
-	"github.com/ncosgrave/gohadoop/hadoop_yarn"
-	yarn_conf "github.com/ncosgrave/gohadoop/hadoop_yarn/conf"
+	"github.com/noelcosgrave/gohadoop/hadoop_common/security"
+	"github.com/noelcosgrave/gohadoop/hadoop_yarn"
+	yarn_conf "github.com/noelcosgrave/gohadoop/hadoop_yarn/conf"
 )
 
 type AMRMClient struct {

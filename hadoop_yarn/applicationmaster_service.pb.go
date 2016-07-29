@@ -8,9 +8,9 @@ import proto "github.com/golang/protobuf"
 import json "encoding/json"
 import math "math"
 
-import "github.com/ncosgrave/gohadoop"
-import hadoop_ipc_client "github.com/ncosgrave/gohadoop/hadoop_common/ipc/client"
-import yarn_conf "github.com/ncosgrave/gohadoop/hadoop_yarn/conf"
+import "github.com/noelcosgrave/gohadoop"
+import hadoop_ipc_client "github.com/noelcosgrave/gohadoop/hadoop_common/ipc/client"
+import yarn_conf "github.com/noelcosgrave/gohadoop/hadoop_yarn/conf"
 import "github.com/nu7hatch/gouuid"
 
 // Reference proto, json, and math imports to suppress error if they are not otherwise used.

@@ -3,7 +3,7 @@ package main
 import (
   "log"
   "github.com/Afonos/gohadoop/hadoop_yarn"
-  yarn_conf "github.com/ncosgrave/gohadoop/hadoop_yarn/conf"
+  yarn_conf "github.com/noelcosgrave/gohadoop/hadoop_yarn/conf"
 )
 
 func main() {
