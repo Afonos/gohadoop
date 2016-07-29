@@ -1,7 +1,7 @@
 package security
 
 import (
-	"github.com/hortonworks/gohadoop/hadoop_common"
+	"github.com/ncosgrave/gohadoop/hadoop_common"
 	"log"
 	"os/user"
 	"sync"

@@ -1,8 +1,8 @@
 package yarn_client
 
 import (
-	"github.com/hortonworks/gohadoop/hadoop_yarn"
-	yarn_conf "github.com/hortonworks/gohadoop/hadoop_yarn/conf"
+	"github.com/ncosgrave/gohadoop/hadoop_yarn"
+	yarn_conf "github.com/ncosgrave/gohadoop/hadoop_yarn/conf"
 	"log"
 	"time"
 )
