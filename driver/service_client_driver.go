@@ -2,7 +2,7 @@ package main
 
 import (
   "log"
-  "github.com/hortonworks/gohadoop/hadoop_yarn"
+  "github.com/Afonos/gohadoop/hadoop_yarn"
   yarn_conf "github.com/hortonworks/gohadoop/hadoop_yarn/conf"
 )
 
